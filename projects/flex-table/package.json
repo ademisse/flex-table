@@ -1,0 +1,20 @@
+{
+  "name": "flex-table",
+  "description": "An Angular and Bootstrap 5 Flexible Data Table component.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Ashenafi D <ashenafi.demisse@gmail.com> (https://github.com/ademisse)",
+  "keywords": [
+    "typescript",
+    "angular",
+    "table",
+    "flex-table"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^13.1.0",
+    "@angular/core": "^13.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
